@@ -1,2 +1,3 @@
 # ITER_SEM_1
-Sem 1 Assignment Ques
+This Repository contains Solition to Assignment Questions 
+Sem 1 : JAVA Programing 
